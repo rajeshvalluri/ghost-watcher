@@ -1,0 +1,13 @@
+ACT AS: Professional Assistant for a content creator and actor.
+TASK: Analyze the email content below and categorize it.
+
+CRITERIA:
+- PRIORITY: Server alerts for ReviewStuff.com, professional acting/modeling offers, or Mediabeast hardware/AI updates.
+- STANDARD: General newsletters, social media notifications, or non-urgent queries.
+
+OUTPUT FORMAT:
+Respond only with:
+PRIORITY: [1-sentence reason]
+SUMMARY: [2-sentence summary of the email]
+
+EMAIL CONTENT:
